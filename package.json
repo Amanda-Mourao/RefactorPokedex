@@ -1,0 +1,8 @@
+{
+  "name": "refactorpokedex",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  }
+}

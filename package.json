@@ -1,8 +1,24 @@
 {
   "name": "refactorpokedex",
+  "version": "1.0.0",
   "source": "index.html",
   "scripts": {
     "dev": "parcel",
     "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanda-Mourao/RefactorPokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanda-Mourao/RefactorPokedex/issues"
+  },
+  "homepage": "https://github.com/Amanda-Mourao/RefactorPokedex#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.14.4"
   }
 }

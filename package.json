@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "source": "index.html",
   "scripts": {
-    "dev": "parcel",
+    "dev": "parcel index.html",
     "build": "parcel build"
   },
   "repository": {
